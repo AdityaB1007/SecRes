@@ -1,0 +1,14 @@
+streamlit
+langchain
+langgraph
+tavily-python
+faiss-cpu
+python-dotenv
+presidio-analyzer
+presidio-anonymizer
+langchain-ollama
+langchain
+langgraph
+pydantic
+langchain_community
+langchain_core
