@@ -46,7 +46,7 @@ Additionally, it features a zero-trust AI security gateway for real-time PII red
 1.  Install [Ollama](https://ollama.ai/) to run local models.
 2.  Pull the required models:
     ```bash
-    ollama run llama3.2:4b
+    ollama run llama3.2:latest
     ollama run llama-guard3:8b
     ```
 3.  Get a free API key from [Tavily](https://tavily.com/).
