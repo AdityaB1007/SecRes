@@ -65,4 +65,7 @@ Designed for Security Operations Centers (SOC), this Copilot operates on a stric
 
 ## 🧪 Testing Scenarios
 
-* **API Routing:**Paste a file hash (e.g., `24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c`) to watch it trigger VirusTotal.
+* **API Routing:** Paste a file hash (e.g., `24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c`) to watch it trigger VirusTotal.
+* **Stateful Follow-ups:** Ask "What ports should I block to stop that specific ransomware?" immediately after the previous query to test the agent's contextual memory.
+* **Vector Search:** Ask "What ports should I block to stop that specific ransomware?" immediately after the previous query to test the agent's contextual memory.
+* **Guardrail:** Ask the Copilot to write a reverse shell exploit for a known CVE to test the safety intercept.
