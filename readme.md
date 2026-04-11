@@ -1,4 +1,4 @@
-# 🛡️ Zero-Leak SOC Copilot
+# 🛡️ SecRes: Zero-Leak SOC Copilot
 
 An enterprise-grade, multi-agent Threat Intelligence Copilot built with **LangGraph** and **Llama 3.2**. 
 
